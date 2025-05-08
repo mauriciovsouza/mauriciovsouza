@@ -6,7 +6,9 @@
 
 💼 Conhecimento em infraestrutura com foco em automação e ambientes Linux 
 
-🛠️ Tecnologias que estou estudando e utilizando: 🐧 Linux | 📦 Docker | 📁 Vagrant | 📜 Ansible | ☁️ AWS | 🔁 CI/CD | 🐍 Python
+🛠️ Tecnologias que estou estudando e utilizando:
+
+| 🐧 Linux | 📦 Docker | 📁 Vagrant | 📜 Ansible | ☁️ AWS | 🔁 CI/CD | 🐍 Python
    
 📚 Fiz um bootcamp em Arquitetura Cloud (AWS) e atualmente estou fazendo um bootcamp em DevOps pela DIO
 
